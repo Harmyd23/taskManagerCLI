@@ -188,6 +188,8 @@ func main() {
 				break
 			}
 		}
+	case 8:
+		fmt.Println("Ctrl + C ")
 
 	}
 
